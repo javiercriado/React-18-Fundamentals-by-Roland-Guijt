@@ -1,3 +1,11 @@
+.themeFontColor {
+  color: teal;
+}
+
+tr {
+  cursor: pointer;
+}
+
 /*:root {
   --max-width: 1100px;
   --border-radius: 12px;
