@@ -83,6 +83,18 @@
       "bidder": "Javier Criado",
       "amount": 222000,
       "id": 14
+    },
+    {
+      "houseId": 1,
+      "bidder": "Javier Le Guasse",
+      "amount": 205000,
+      "id": 15
+    },
+    {
+      "houseId": 2,
+      "bidder": "Javier Le Guasse",
+      "amount": 318000,
+      "id": 16
     }
   ]
 }
